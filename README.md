@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>MERN Social App README</title>
-</head>
-<body>
+
 
   <h1>🚀 MERN Social App (In Progress)</h1>
 
